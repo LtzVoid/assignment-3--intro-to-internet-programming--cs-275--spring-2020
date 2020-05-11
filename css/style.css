@@ -1,0 +1,15 @@
+table {
+  border-style: solid;
+  border-collapse: collapse;
+  position: center;
+  border-color: #6a0005;
+}
+
+td {
+  display: inline-flex;
+  font-size: 100px;
+  padding: 25px;
+  border-style: solid;
+  border-collapse: collapse;
+  border-color: #6a0005;
+}
